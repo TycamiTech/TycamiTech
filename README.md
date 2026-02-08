@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Ryandiq Fawwas Nafeeza!
-
 ![header](img/githubheader.png)
 
 ### Network Engineer & Web Developer
@@ -18,6 +16,7 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 - 🖥️ **Server Management**
 
 ---
+
 ### Social Media
 
 ###
@@ -29,6 +28,18 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
+---
+### Spotify
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31sagftvoi7zmkdgnp2iazb3b4zi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
 ### Skills
 
 <div align="left">
@@ -81,19 +92,5 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TycamiTech/TycamiTech/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TycamiTech/TycamiTech/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31sagftvoi7zmkdgnp2iazb3b4zi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
