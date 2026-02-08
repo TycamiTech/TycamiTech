@@ -1,5 +1,15 @@
 ![header](img/githubheader.png)
 
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Networking+%E2%80%A2+Web+Development;Crafting+Stable+Infrastructure;Building+Modern+Web+Solutions" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ### About Me
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TycamiTech&color=red)](https://github.com/TycamiTech)
