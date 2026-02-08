@@ -32,7 +32,7 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.tiktok.com/@tycami_" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-snips/master/public/social-icons/tiktok.svg" width="52" height="40" alt="tiktok logo"  />
+    <img src="img/tiktok.png" height="40" alt="tiktok logo"  />
   </a>
 </div>
 
