@@ -85,8 +85,8 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Tycami">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Tycami&count=3" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31sagftvoi7zmkdgnp2iazb3b4zi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
