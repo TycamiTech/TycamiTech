@@ -57,7 +57,7 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ###
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JuaDdzbHdtbDhsZzc1Z3RkMWgyZ3E0c3I3dzBpdDF3czE4eWhteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NJNrROC7KiTxhp4p8c/giphy.gif" width="437">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXlnbjY0dTZheDQzYTNvbW5jdThrbXBpZDVoandyc2wwMmx4Z3A1biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P1Nx2hFWTthM5rrJHE/giphy.gif" width="328">
 
 
 <div align="left">
