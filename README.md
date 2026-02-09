@@ -10,7 +10,7 @@
 
 ---
 
-### About Me
+### 👤 About Me
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TycamiTech&color=red)](https://github.com/TycamiTech)
 
@@ -18,22 +18,38 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ---
 
-### Areas of Expertise
+### 🛠️ Areas of Expertise
 
 ###
 
 
-| 🌐 Network Engineering | 💻 Web Development |
-| :--- | :--- |
-| Experienced in configuring **MikroTik** routers, managing bandwidth, and designing stable local network infrastructures for industry standards. | Building responsive front-end applications using **React, Tailwind CSS**, and modern JavaScript tools for local MSMEs (UMKM). |
+<table width="100%">
+  <tr>
+    <th width="50%" align="left">🌐 Network Engineering</th>
+    <th width="50%" align="left">💻 Web Development</th>
+  </tr>
+  <tr>
+    <td>Experienced in configuring <b>MikroTik</b> routers, managing bandwidth, and designing stable local network infrastructures for industry standards.</td>
+    <td>Building a responsive website that focuses on appearance and design for the convenience of viewers.</td>
+  </tr>
+</table>
 
-| 🔒 Network Security | ⚙️ Server Management |
-| :--- | :--- |
-| Implementing firewall rules, brute-force protection, and securing network access on MikroTik and Linux environments to ensure data safety. | Deploying and monitoring services using **Zabbix**, Apache/Nginx, and managing MariaDB databases on **Debian** servers. |
+<table width="100%">
+  <tr>
+    <th width="50%" align="left">🔒 Network Security</th>
+    <th width="50%" align="left">⚙️ Server Management</th>
+  </tr>
+  <tr>
+    <td>Implement firewall rules, protect against brute-force attacks, and engineer security on local networks.</td>
+    <td>Implement and build optimal servers according to needs, and repair servers if problems occur.</td>
+  </tr>
+</table>
 
 ---
 
-### Social Media
+### 🤝 Let's Chat!
+
+Feel free to reach out to me for collaborations, tech discussions, or just to say hi! I'm active on these platforms:
 
 ###
 
@@ -52,24 +68,28 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
   </a>
 </div>
 
+<br />
+
+> **Note:** I'm most active on Instagram and LinkedIn for professional inquiries.
+
 ---
 
-### My Coding Soundtrack
+### 🎧 My Coding Soundtrack
 
 ###
 
 <table>
   <tr>
-    <td width="50%" valign="middle">
-      <h4>Music is the fuel for my code.</h4>
+    <td width="55%" valign="middle">
+      <h4>Music: My Productivity Companion</h4>
       <p>
-        Whether I'm configuring MikroTik firewalls or debugging React components, I need the right rhythm to stay in the zone. 
+        For me, music and focus go hand in hand. I believe that the right rhythm can transform any task into a more enjoyable and inspired experience. 
       </p>
       <p>
-        I enjoy listening to energetic beats (especially K-Pop!) to keep my momentum high while building efficient web solutions and stable networks.
+        I especially love listening to energetic beats—with a big soft spot for K-Pop—to keep my spirits high and my energy consistent throughout the day. It’s the perfect backdrop for my daily workflow.
       </p>
     </td>
-    <td width="50%" valign="middle" align="center"> 
+    <td width="45%" valign="middle" align="center">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=5" alt="Spotify Recently Played" width="100%">
     </td>
   </tr>
@@ -77,51 +97,31 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ---
 
-### Skills
+### 🛠️ Tech Stack & Skills
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=postman&logoColor=white" alt="API" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11" />
-  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="Epic Games" />
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</div>
+**🌐 Web Development & Languages**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br/>
+**📡 Networking & Security**
+![Mikrotik](https://img.shields.io/badge/mikrotik-%230479A8.svg?style=for-the-badge&logo=mikrotik&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23040303.svg?style=for-the-badge&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white) ![TP-Link](https://img.shields.io/badge/tp--link-%2300B4FF.svg?style=for-the-badge&logo=tp-link&logoColor=white) ![Huawei](https://img.shields.io/badge/huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white) ![ZTE](https://img.shields.io/badge/ZTE-%23005696.svg?style=for-the-badge&logo=zte&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Ruijie](https://img.shields.io/badge/Ruijie-%23E4002B.svg?style=for-the-badge&logo=reactos&logoColor=white) ![D-Link](https://img.shields.io/badge/D--Link-%23003366.svg?style=for-the-badge&logo=d-link&logoColor=white)
+
+**🖥️ OS & Server Management**
+![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![Debian](https://img.shields.io/badge/debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-214478?style=for-the-badge&logo=VirtualBox&logoColor=white)
+
+**☁️ Tools & Platforms**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white) ![PuTTY](https://img.shields.io/badge/PuTTY-%23000000.svg?style=for-the-badge&logo=putty&logoColor=white)
+
+**🎮 Interests & Others**
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
+
 
 ###
+
+---
+
+### 📊 GitHub contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TycamiTech/TycamiTech/output/pacman-contribution-graph-dark.svg">
