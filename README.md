@@ -20,15 +20,16 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ### Areas of Expertise
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+###
 
-- 🌐 **Network Engineering**
-- 💻 **Web Development**
-- 🔒 **Network Security**
-- 🖥️ **Server Management**
 
-<br clear="right">
-<br>
+| 🌐 Network Engineering | 💻 Web Development |
+| :--- | :--- |
+| Experienced in configuring **MikroTik** routers, managing bandwidth, and designing stable local network infrastructures for industry standards. | Building responsive front-end applications using **React, Tailwind CSS**, and modern JavaScript tools for local MSMEs (UMKM). |
+
+| 🔒 Network Security | ⚙️ Server Management |
+| :--- | :--- |
+| Implementing firewall rules, brute-force protection, and securing network access on MikroTik and Linux environments to ensure data safety. | Deploying and monitoring services using **Zabbix**, Apache/Nginx, and managing MariaDB databases on **Debian** servers. |
 
 ---
 
@@ -53,17 +54,32 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ---
 
-### Spotify
+### My Coding Soundtrack
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31sagftvoi7zmkdgnp2iazb3b4zi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+###
+
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <h4>Music is the fuel for my code.</h4>
+      <p>
+        Whether I'm configuring MikroTik firewalls or debugging React components, I need the right rhythm to stay in the zone. 
+      </p>
+      <p>
+        I enjoy listening to energetic beats (especially K-Pop!) to keep my momentum high while building efficient web solutions and stable networks.
+      </p>
+    </td>
+    <td width="50%" valign="middle" align="center"> 
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=5" alt="Spotify Recently Played" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Skills
+
+###
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
