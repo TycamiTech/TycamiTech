@@ -55,12 +55,7 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ### Spotify
 
-###
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXlnbjY0dTZheDQzYTNvbW5jdThrbXBpZDVoandyc2wwMmx4Z3A1biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/P1Nx2hFWTthM5rrJHE/giphy.gif" width="328">
-
-
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/31sagftvoi7zmkdgnp2iazb3b4zi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=5" alt="Spotify recently played"  />
   </a>
