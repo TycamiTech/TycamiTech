@@ -1,6 +1,7 @@
 ![header](img/githubheader.png)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,24 +9,34 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 ### About Me
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TycamiTech&color=red)](https://github.com/TycamiTech)
 
-A talented Network Engineer & Web Developer from the Axioo Industry Class at **SMK PGRI 1 Ngawi**. Experienced in designing stable network infrastructure using MikroTik technology and managing Linux-based servers. Additionally, I have a strong passion for building modern, responsive, and efficient web solutions.
+A talented Network Engineer & Web Developer from the Axioo Industry Class at **SMK PGRI 1 NGAWI**. Experienced in designing stable network infrastructure using MikroTik technology and managing Linux-based servers. Additionally, I have a strong passion for building modern, responsive, and efficient web solutions.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 ### Areas of Expertise
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 - 🌐 **Network Engineering**
 - 💻 **Web Development**
 - 🔒 **Network Security**
 - 🖥️ **Server Management**
 
----
+<br clear="right">
+<br>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 ### Social Media
 
@@ -33,20 +44,22 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ryandiq-fawwas-nafeeza-8b4248364?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="https://www.instagram.com/tycami_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
   <a href="https://wa.me/6281330668215" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+   <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
   </a>
   <a href="https://www.tiktok.com/@tycami_" target="_blank">
-    <img src="img/tiktok.png" height="40" alt="tiktok logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100">
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 ### Spotify
 
 ###
@@ -57,7 +70,9 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 ### Skills
 
 <div align="left">
@@ -100,15 +115,8 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 <br/>
 
----
-
-![Stats TycamiTech](https://github-readme-stats.vercel.app/api?username=TycamiTech&show_icons=true&theme=radical)
-
-![Top Lang TycamiTech](https://github-readme-stats.vercel.app/api/top-langs/?username=TycamiTech&layout=compact&theme=radical)
-
-<br/>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 ###
 
