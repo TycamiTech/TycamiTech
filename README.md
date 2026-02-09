@@ -102,10 +102,9 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TycamiTech&show_icons=true&theme=radical&count_private=true" height="180" alt="TycamiTech's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TycamiTech&layout=compact&theme=radical&hide_progress=true" height="180" alt="Top Languages" />
-</div>
+![Stats TycamiTech](https://github-readme-stats.vercel.app/api?username=TycamiTech&show_icons=true&theme=radical)
+
+![Top Lang TycamiTech](https://github-readme-stats.vercel.app/api/top-langs/?username=TycamiTech&layout=compact&theme=radical)
 
 <br/>
 
