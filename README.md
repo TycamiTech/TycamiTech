@@ -165,7 +165,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 ---
 
-### 📊 GitHub contributions
+### 📊 GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TycamiTech/TycamiTech/output/pacman-contribution-graph-dark.svg">
