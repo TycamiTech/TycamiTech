@@ -1,7 +1,6 @@
 ![header](img/githubheader.png)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,8 +8,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
+---
 
 ### About Me
 
@@ -18,8 +16,7 @@
 
 A talented Network Engineer & Web Developer from the Axioo Industry Class at **SMK PGRI 1 NGAWI**. Experienced in designing stable network infrastructure using MikroTik technology and managing Linux-based servers. Additionally, I have a strong passion for building modern, responsive, and efficient web solutions.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
+---
 
 ### Areas of Expertise
 
@@ -33,10 +30,7 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 <br clear="right">
 <br>
 
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
+---
 
 ### Social Media
 
@@ -44,34 +38,35 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ryandiq-fawwas-nafeeza-8b4248364?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60">
   </a>
   <a href="https://www.instagram.com/tycami_/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60">
   </a>
   <a href="https://wa.me/6281330668215" target="_blank">
-   <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+   <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60">
   </a>
   <a href="https://www.tiktok.com/@tycami_" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100">
+    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="60">
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
+---
 
 ### Spotify
 
 ###
 
-<div align="center">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JuaDdzbHdtbDhsZzc1Z3RkMWgyZ3E0c3I3dzBpdDF3czE4eWhteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NJNrROC7KiTxhp4p8c/giphy.gif" width="437">
+
+
+<div align="left">
   <a href="https://open.spotify.com/user/31sagftvoi7zmkdgnp2iazb3b4zi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
+---
 
 ### Skills
 
@@ -115,9 +110,6 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-<br><br>
-
 ###
 
 <picture>
@@ -127,3 +119,6 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 </picture>
 
 ###
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br><br>
