@@ -8,6 +8,19 @@
   </a>
 </p>
 
+<table border="0" width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FFFFFF&vCenter=true&width=500&height=40&lines=Networking+%E2%80%A2+Web+Development;Crafting+Stable+Infrastructure;Building+Modern+Web+Solutions" alt="Typing SVG" />
+      </a>
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="90">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### About Me
