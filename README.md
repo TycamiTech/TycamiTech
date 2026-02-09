@@ -70,7 +70,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 <br />
 
-> **Note:** I'm most active on Instagram and LinkedIn for professional inquiries.
+> **Note:** I'm most active on WhatsApp and TikTok for professional inquiries.
 
 ---
 
