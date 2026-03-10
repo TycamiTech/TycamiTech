@@ -18,6 +18,7 @@
       <a href="https://github.com/TycamiTech"><img src="https://komarev.com/ghpvc/?username=TycamiTech&color=red" alt="Profile Views"></a>
       <br><br>
       A talented Network Engineer & Web Developer from the Axioo Industry Class at <b>SMK PGRI 1 NGAWI</b>. Experienced in designing stable network infrastructure using MikroTik technology and managing Linux-based servers. Additionally, I have a strong passion for building modern, responsive, and efficient web solutions.
+      <br><br>Driven by intense curiosity, I have delved into Debian server administration, MikroTik networking, and web development. My experience in the industry class has instilled the discipline needed to build precise, standardized digital solutions.
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="img/wony.gif" width="100%" alt="About Me GIF">
@@ -202,4 +203,3 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br><br>
-
