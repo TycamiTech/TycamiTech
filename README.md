@@ -99,7 +99,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
       </p>
     </td>
     <td width="45%" valign="middle" align="center">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=5" alt="Spotify Recently Played" width="100%">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count4" alt="Spotify Recently Played" width="100%">
     </td>
   </tr>
 </table>
@@ -203,4 +203,5 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br><br>
+
 
