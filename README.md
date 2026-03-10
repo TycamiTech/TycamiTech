@@ -12,9 +12,18 @@
 
 ### 👤 About Me
 
-[![Profile Views](https://komarev.com/ghpvc/?username=TycamiTech&color=red)](https://github.com/TycamiTech)
-
-A talented Network Engineer & Web Developer from the Axioo Industry Class at **SMK PGRI 1 NGAWI**. Experienced in designing stable network infrastructure using MikroTik technology and managing Linux-based servers. Additionally, I have a strong passion for building modern, responsive, and efficient web solutions.
+<table>
+  <tr>
+    <td width="65%" valign="top" align="left">
+      <a href="https://github.com/TycamiTech"><img src="https://komarev.com/ghpvc/?username=TycamiTech&color=red" alt="Profile Views"></a>
+      <br><br>
+      A talented Network Engineer & Web Developer from the Axioo Industry Class at **SMK PGRI 1 NGAWI**. Experienced in designing stable network infrastructure using MikroTik technology and managing Linux-based servers. Additionally, I have a strong passion for building modern, responsive, and efficient web solutions.
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="img/wony.gif" width="100%" alt="About Me GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -193,4 +202,3 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br><br>
-
