@@ -22,7 +22,6 @@ A talented Network Engineer & Web Developer from the Axioo Industry Class at **S
 
 ###
 
-
 <table width="100%">
   <tr>
     <th width="50%" align="left">🌐 Network Engineering</th>
@@ -74,6 +73,10 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 ---
 
+### My Bias
+
+---
+
 ### 🎧 My Coding Soundtrack
 
 ###
@@ -97,11 +100,25 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 ---
 
+### 🎀 My Bias
+
+###
+
+<div align="center">
+  <img src="img/ahyeon.jpg" width="200" alt="Ahyeon">
+  <img src="img/eunchae.jpg" width="200" alt="Eunchae">
+  <img src="img/ningning.jpg" width="200" alt="Ningning">
+  <img src="img/wonyoung.png" width="200" alt="Wonyoung">
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 ###
 
 **🌐 Web Development & Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -113,6 +130,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 </p>
 
 **📡 Networking & Security**
+
 <p align="left">
   <img src="https://img.shields.io/badge/mikrotik-%230479A8.svg?style=for-the-badge&logo=mikrotik&logoColor=white" />
   <img src="https://img.shields.io/badge/cisco-%23040303.svg?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -127,6 +145,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 </p>
 
 **🖥️ OS & Server Management**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white" />
@@ -140,6 +159,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 </p>
 
 **☁️ Tools & Platforms**
+
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -152,6 +172,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 </p>
 
 **🎮 Interests & Others**
+
 <p align="left">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
@@ -159,7 +180,6 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </p>
-
 
 ###
 
