@@ -99,7 +99,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
       </p>
     </td>
     <td width="45%" valign="middle" align="center">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count4" alt="Spotify Recently Played" width="100%">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sagftvoi7zmkdgnp2iazb3b4zi&count=5" alt="Spotify Recently Played" width="100%">
     </td>
   </tr>
 </table>
@@ -159,9 +159,12 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-214478?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 </p>
 
 **☁️ Tools & Platforms**
@@ -170,6 +173,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
@@ -194,8 +198,8 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TycamiTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TycamiTech&theme=tokyonight&hide_border=true&background=0D1117" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TycamiTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TycamiTech&theme=tokyonight&hide_border=true&background=0D1117" width="55%" />
 </div>
 
 ### 📊 GitHub Contributions
@@ -210,10 +214,3 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br><br>
-
-
-
-
-
-
-
