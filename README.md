@@ -198,8 +198,8 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TycamiTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="55%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TycamiTech&theme=tokyonight&hide_border=true&background=0D1117" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TycamiTech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TycamiTech&theme=tokyonight&hide_border=true&background=0D1117" width="50%" />
 </div>
 
 ### 📊 GitHub Contributions
