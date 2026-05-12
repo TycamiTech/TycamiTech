@@ -21,7 +21,7 @@
       <br><br>Driven by intense curiosity, I have delved into Debian server administration, MikroTik networking, and web development. My experience in the industry class has instilled the discipline needed to build precise, standardized digital solutions.
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="img/ning.gif" width="100%" alt="About Me GIF">
+      <img src="img/wony.gif" width="100%" alt="About Me GIF">
     </td>
   </tr>
 </table>
