@@ -180,7 +180,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 <p align="left">
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-214478?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="[https://img.shields.io/badge/VirtualBox-214478?style=for-the-badge&logo=VirtualBox&logoColor=white](https://img.shields.io/badge/VirtualBox-214478?style=for-the-badge&logo=VirtualBox&logoColor=white)" />
 </p>
 
 <p align="left">
