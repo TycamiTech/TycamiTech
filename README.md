@@ -35,7 +35,7 @@
 
 <table width="100%">
   <tr>
-    <th width="50%" align="left">🌐 Network Engineering & Securityg</th>
+    <th width="50%" align="left">🌐 Network Engineering & Security</th>
     <th width="50%" align="left">📱 Multi-Platform Software Engineering</th>
   </tr>
   <tr>
