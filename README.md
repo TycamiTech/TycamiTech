@@ -17,8 +17,9 @@
     <td width="65%" valign="top" align="left">
       <a href="https://github.com/TycamiTech"><img src="https://komarev.com/ghpvc/?username=TycamiTech&color=red" alt="Profile Views"></a>
       <br><br>
-      A talented Network Engineer & Web Developer from the Axioo Industry Class at <b>SMK PGRI 1 NGAWI</b>. Experienced in designing stable network infrastructure using MikroTik technology and managing Linux-based servers. Additionally, I have a strong passion for building modern, responsive, and efficient web solutions.
-      <br><br>Driven by intense curiosity, I have delved into Debian server administration, MikroTik networking, and web development. My experience in the industry class has instilled the discipline needed to build precise, standardized digital solutions.
+      A Software Engineer and Network Specialist, and a graduate of the Axioo Industry Class program at SMK PGRI 1 NGAWI. I develop multi-platform software—ranging from mobile and web applications to internal server software and custom shell utilities—backed by a solid foundation in server management and MikroTik network design.
+      <br><br>
+      I combine rigorous industry discipline with a "builder" mindset, creating reliable, well-engineered solutions that encompass everything from core infrastructure to the final user interface (UI).
     </td>
     <td width="35%" valign="middle" align="center">
       <img src="img/wony.gif" width="100%" alt="About Me GIF">
@@ -34,23 +35,23 @@
 
 <table width="100%">
   <tr>
-    <th width="50%" align="left">🌐 Network Engineering</th>
-    <th width="50%" align="left">💻 Web Development</th>
+    <th width="50%" align="left">🌐 Network Engineering & Securityg</th>
+    <th width="50%" align="left">📱 Multi-Platform Software Engineering</th>
   </tr>
   <tr>
-    <td>Experienced in configuring <b>MikroTik</b> routers, managing bandwidth, and designing stable local network infrastructures for industry standards.</td>
-    <td>Building a responsive website that focuses on appearance and design for the convenience of viewers.</td>
+    <td>Designing and deploying resilient local network infrastructures, configuring MikroTik/routing topologies, bandwidth management, and implementing robust firewall defenses.</td>
+    <td>Engineering responsive, high-performance applications across web and mobile platforms with a strong focus on clean UI, low latency, and optimized client architectures.</td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <th width="50%" align="left">🔒 Network Security</th>
-    <th width="50%" align="left">⚙️ Server Management</th>
+    <th width="50%" align="left">⚙️ Systems Tooling & Automation</th>
+    <th width="50%" align="left">🖥️ Server & Infrastructure Management</th>
   </tr>
   <tr>
-    <td>Implement firewall rules, protect against brute-force attacks, and engineer security on local networks.</td>
-    <td>Implement and build optimal servers according to needs, and repair servers if problems occur.</td>
+    <td>Developing automated shell scripts, command-line utilities, and lightweight backend services to streamline workflows and system-level operations.</td>
+    <td>Deploying and administering Debian/Linux environments, configuring reverse proxies, containerized virtualization, and maintaining reliable server uptime.</td>
   </tr>
 </table>
 
