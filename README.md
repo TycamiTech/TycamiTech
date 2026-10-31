@@ -2,7 +2,7 @@
 
 ---
 
-### 👤 About Me
+### About Me
 
 <table>
   <tr>
@@ -21,14 +21,14 @@
 
 ---
 
-### 🛠️ Areas of Expertise
+### Areas of Expertise
 
 ###
 
 <table width="100%">
   <tr>
-    <th width="50%" align="left">🌐 Network Engineering & Security</th>
-    <th width="50%" align="left">📱 Multi-Platform Software Engineering</th>
+    <th width="50%" align="left"> Network Engineering & Security</th>
+    <th width="50%" align="left"> Multi-Platform Software Engineering</th>
   </tr>
   <tr>
     <td>Designing and deploying resilient local network infrastructures, configuring MikroTik/routing topologies, bandwidth management, and implementing robust firewall defenses.</td>
@@ -38,8 +38,8 @@
 
 <table width="100%">
   <tr>
-    <th width="50%" align="left">⚙️ Systems Tooling & Automation</th>
-    <th width="50%" align="left">🖥️ Server & Infrastructure Management</th>
+    <th width="50%" align="left"> Systems Tooling & Automation</th>
+    <th width="50%" align="left"> Server & Infrastructure Management</th>
   </tr>
   <tr>
     <td>Developing automated shell scripts, command-line utilities, and lightweight backend services to streamline workflows and system-level operations.</td>
@@ -49,7 +49,7 @@
 
 ---
 
-### 🤝 Let's Chat!
+### Let's Chat!
 
 Feel free to reach out to me for collaborations, tech discussions, or just to say hi! I'm active on these platforms:
 
@@ -76,7 +76,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 ---
 
-### 🎧 My Coding Soundtrack
+### My Coding Soundtrack
 
 ###
 
@@ -99,11 +99,11 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 ###
 
-**🌐 Languages**
+**Languages**
 
 <p align="left">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
@@ -121,7 +121,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-**📦 Frameworks & Libraries**
+**Frameworks & Libraries**
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -134,7 +134,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </p>
 
-**🗄️ Databases & Storage**
+**Databases & Storage**
 
 <p align="left">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -142,7 +142,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-**📡 Networking & Security**
+**Networking & Security**
 
 <p align="left">
   <img src="https://img.shields.io/badge/cisco-%23040303.svg?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -159,7 +159,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 </p>
 
-**🖥️ OS, Virtualization & Server Management**
+**OS, Virtualization & Server Management**
 
 <p align="left">
   <img src="https://img.shields.io/badge/debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white" />
@@ -189,7 +189,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-**🛠️ Development Tools & Cloud Platforms**
+**Development Tools & Cloud Platforms**
 
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -207,7 +207,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />
 </p>
 
-**🤖 AI Assistants & Productivity**
+**AI Assistants & Productivity**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
@@ -215,7 +215,7 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
 </p>
 
-**🎮 Interests & Entertainment**
+**Interests & Entertainment**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
@@ -236,17 +236,16 @@ Feel free to reach out to me for collaborations, tech discussions, or just to sa
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TycamiTech&theme=tokyonight&hide_border=true&background=0D1117" width="55%" />
 </div>
 
-### 📊 GitHub Contributions
+### GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TycamiTech/TycamiTech/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TycamiTech/TycamiTech/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TycamiTech/TycamiTech/output/pacman-contribution-graph.svg">
 </picture>
-
