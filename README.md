@@ -1,4 +1,4 @@
-![header](img/githubheader3.png)
+![header](img/header.gif)
 
 ---
 
