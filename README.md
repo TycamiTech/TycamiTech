@@ -1,4 +1,4 @@
-![header](img/header.gif)
+<img src="img/header.gif" width="100%" alt="Header">
 
 ---
 
